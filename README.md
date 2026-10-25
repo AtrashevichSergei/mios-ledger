@@ -5,7 +5,10 @@
 каждое решение — вход, выход, пропуск, ошибку — в журнал.
 
 - Витрина: https://cascade-agent.fly.dev/public
-- Сырой журнал: https://cascade-agent.fly.dev/public/ledger.jsonl
+- Сырой журнал каскада: https://cascade-agent.fly.dev/public/ledger.jsonl
+- Сырой журнал форварда якорного VWAP 4h (бумага, с 2026-10-26): https://cascade-agent.fly.dev/public/avwap.jsonl
+
+Оба журнала якорятся одним прогоном; якорь VWAP помечен `"ledger": "avwap"`.
 
 ## Как это доказывает, что журнал не переписан
 
