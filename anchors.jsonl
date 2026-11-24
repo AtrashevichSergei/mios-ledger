@@ -144,3 +144,5 @@
 {"ts": "2026-11-22T19:56:54+00:00", "len": 556, "tip": "1e3be9a2900ea01907ae8b41a4b01d9c9f2fcadcd132647fc5232b2dcd51eb2c", "ledger": "avwap"}
 {"ts": "2026-11-23T08:09:54+00:00", "len": 2592, "tip": "fc1fc645ead0b29730009d7a5d16a779d85871ea9248eb293777bc0fd024dbe7"}
 {"ts": "2026-11-23T08:09:54+00:00", "len": 588, "tip": "6978c4e59a33de59a34351d93a249761bced045aef533ab607a5da7758d678d5", "ledger": "avwap"}
+{"ts": "2026-11-24T00:19:30+00:00", "len": 2622, "tip": "ad44c04ac94c55fa526e5955c06ee5453dacd347686fff4f767637de34f55961"}
+{"ts": "2026-11-24T00:19:31+00:00", "len": 626, "tip": "e544d547900065de45914e9e961d6d61f7457bd43549ce17dc3a9f59ae80c8fa", "ledger": "avwap"}
